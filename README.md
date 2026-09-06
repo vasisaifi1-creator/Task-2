@@ -8,7 +8,7 @@ measurements taken from a biopsy.
 
 ## 🔗 GitHub Repository
 
-https://github.com/vasisaifi1-creator/Task-1
+https://github.com/vasisaifi1-creator/Task-2
 
 ---
 
@@ -143,4 +143,4 @@ doctor for real diagnoses.
 
 
 🙋 Author
-MOHD VASI Saifi — https://github.com/vasisaifi1-creator
+MOHD VASI SAIFI — https://github.com/vasisaifi1-creator
